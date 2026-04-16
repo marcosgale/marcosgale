@@ -11,7 +11,7 @@
 ## About Me
 
 - Based in Madrid, Spain 🇪🇸 | Studying in the USA 🇺🇸  
-- Currently working on:
+- Projects:
   - **Full-stack Web App (React + Node.js + MongoDB)**
   - **2D Top-Down Shooter (Unity + C#)**
 - Interested in **Web Development, Software Engineering, and AI**.  
