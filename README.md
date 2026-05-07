@@ -1,22 +1,37 @@
-<h1 align="center"> Hi, I'm Marcos García León</h1>
+<h1 align="center">Hi, I'm Marcos García León</h1>
 
 <p align="center">
-  Computer Engineering student at <b>Universidad Camilo José Cela (Spain)</b> <br>
-  Currently completing a <b>Study Abroad in Computer Science</b> at <b>Southern New Hampshire University (USA)</b> <br>
-  Aspiring <b>Software Engineer</b> passionate about building useful, efficient, and modern digital solutions.
+  Computer Engineering student at Universidad Camilo José Cela, Madrid, Spain.
+  Recently completed a full Study Abroad year in Computer Science 
+  at Southern New Hampshire University, Manchester, New Hampshire.
+  Focused on software development and always looking to grow.
 </p>
 
 ---
 
 ## About Me
 
-- Based in Madrid, Spain 🇪🇸 | Studying in the USA 🇺🇸  
-- Projects:
-  - **Full-stack Web App (React + Node.js + MongoDB)**
-  - **2D Top-Down Shooter (Unity + C#)**
-- Interested in **Web Development, Software Engineering, and AI**.  
-- Enjoys teamwork, problem-solving, and learning new technologies.  
-- Always looking to grow as a developer and collaborate on exciting projects.
+- Based in Madrid, Spain. Open to opportunities anywhere.
+- GPA 3.75 out of 4.0 at SNHU. Dean's List, Fall 2025.
+- Native Spanish speaker. Advanced English after a full year living and studying in the USA.
+- Interested in software development, web technologies and machine learning.
+- I learn fast, adapt well and bring real energy to everything I work on.
+
+---
+
+## Projects
+
+**Full-Stack Web Application**
+Built with React, Node.js and MongoDB.
+A complete full-stack project covering frontend, backend and database integration.
+
+**2D Top-Down Shooter**
+Built with Unity and C#.
+A fully playable 2D game developed from scratch, covering game logic, physics and design.
+
+**Machine Learning Pricing Prediction**
+Built with Python.
+A machine learning model trained to predict pricing based on real data patterns.
 
 ---
 
@@ -30,8 +45,11 @@
 
 ## Education
 
-**Computer Engineering**, Universidad Camilo José Cela (Spain)  
-**Study Abroad in Computer Science**, Southern New Hampshire University (USA)  
+Computer Engineering, Universidad Camilo José Cela, Madrid, Spain. 2022, expected 2027.
+
+Study Abroad Program in Computer Science, Southern New Hampshire University, 
+Manchester, New Hampshire. August 2025, May 2026.
+GPA 3.75. Dean's List Fall 2025.
 
 ---
 
@@ -45,7 +63,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
