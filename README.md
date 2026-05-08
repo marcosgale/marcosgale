@@ -51,11 +51,12 @@ Study Abroad Program in Computer Science, Southern New Hampshire University,
 Manchester, New Hampshire. August 2025, May 2026.
 GPA 3.75. Dean's List Fall 2025.
 
----
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:marcosgl2705@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-📧 marcosgl2705@gmail.com
