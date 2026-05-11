@@ -45,7 +45,7 @@ A machine learning model trained to predict pricing based on real data patterns.
 
 ## Education
 
-Computer Engineering, Universidad Camilo José Cela, Madrid, Spain. 2022, expected 2027.
+Computer Engineering, Universidad Camilo José Cela, Madrid, Spain. 2023, expected 2027.
 
 Study Abroad Program in Computer Science, Southern New Hampshire University, 
 Manchester, New Hampshire. August 2025, May 2026.
