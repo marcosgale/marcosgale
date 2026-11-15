@@ -1,60 +1,117 @@
-<h1 align="center">Hi, I'm Marcos García León</h1>
+
+<h1 align="center">Hi, I'm Marcos García León 👋</h1>
+
+<h3 align="center">Computer Engineering Student | Software Developer</h3>
 
 <p align="center">
-  Computer Engineering student at Universidad Camilo José Cela, Madrid, Spain.
-  Recently completed a full Study Abroad year in Computer Science 
-  at Southern New Hampshire University, Manchester, New Hampshire.
-  Focused on software development and always looking to grow.
+  Based in Madrid, Spain 🇪🇸
+  <br/>
+  Computer Engineering student at Universidad Camilo José Cela.
+  <br/>
+  Former Computer Science exchange student at Southern New Hampshire University, USA.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/marcosgale">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-- Based in Madrid, Spain. Open to opportunities anywhere.
-- GPA 3.75 out of 4.0 at SNHU. Dean's List, Fall 2025.
-- Native Spanish speaker. Advanced English after a full year living and studying in the USA.
-- Interested in software development, web technologies and machine learning.
-- I learn fast, adapt well and bring real energy to everything I work on.
+I'm a Computer Engineering student passionate about building software, solving problems and exploring new technologies.
+
+- 💻 Software Engineering Intern at **Siemens Mobility**, working on software development, process automation and digital transformation.
+- 🎓 Computer Engineering student at **Universidad Camilo José Cela**, expected graduation in June 2027.
+- 🇺🇸 Completed a Computer Science exchange year at **Southern New Hampshire University**, with a GPA of 3.75/4.00 and Dean's List recognition (Fall 2025).
+- ☁️ **AWS Certified Cloud Practitioner**.
+- 🤖 Interested in AI-assisted development, cloud computing, software architecture and scalable systems.
+- 🚀 Always learning, building projects and looking for opportunities to grow as a Software Engineer.
 
 ---
 
-## Projects
+## Featured Projects
 
-**Full-Stack Web Application**
-Built with React, Node.js and MongoDB.
-A complete full-stack project covering frontend, backend and database integration.
+### Numo — Personal Finance Mobile Application
+**React Native · Expo · TypeScript · Supabase · PostgreSQL**
 
-**2D Top-Down Shooter**
-Built with Unity and C#.
-A fully playable 2D game developed from scratch, covering game logic, physics and design.
+- Designed and developed a personal finance application from scratch.
+- Built features for expense tracking, savings goals, spending limits, multi-currency support and shared expenses.
+- Implemented authentication, database integration and English/Spanish localization.
 
-**Machine Learning Pricing Prediction**
-Built with Python.
-A machine learning model trained to predict pricing based on real data patterns.
+### Machine Learning Pricing Prediction
+**Python · Machine Learning**
+
+- Developed a machine learning model to predict pricing based on real-world data patterns.
+- Applied data processing and predictive modeling techniques.
+
+### 2D Top-Down Shooter
+**Unity · C#**
+
+- Developed a playable 2D game from scratch.
+- Implemented game logic, physics and core gameplay mechanics.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css,react,nodejs,express,mongodb,git,github,unity,vscode" />
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,sql" />
 </p>
+
+**Web & Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,expo" />
+</p>
+
+**Databases, Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws,git,github,vscode,unity" />
+</p>
+
+**Additional Technologies:** Mendix, VBA, Power Apps, Power Automate, GitHub Copilot.
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- UML and Object-Oriented Design Foundations — Udemy
 
 ---
 
 ## Education
 
-Computer Engineering, Universidad Camilo José Cela, Madrid, Spain. 2023, expected 2027.
+**Universidad Camilo José Cela (UCJC)**  
+B.Sc. in Computer Engineering | 2023 – Expected 2027
 
-Study Abroad Program in Computer Science, Southern New Hampshire University, 
-Manchester, New Hampshire. August 2025, May 2026.
-GPA 3.75. Dean's List Fall 2025.
+**Southern New Hampshire University (SNHU)**  
+Computer Science Exchange Program | August 2025 – May 2026  
+GPA: 3.75/4.00 | Dean's List – Fall 2025
+
+---
+
+## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:marcosgl2705@gmail.com">
+    Email
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/marcosgale">
+    GitHub
   </a>
 </p>
-
-📧 marcosgl2705@gmail.com
