@@ -1,60 +1,70 @@
 
-<h1 align="center">Hi, I'm Marcos García León 👋</h1>
+<h1 align="center">MARCOS GARCIA LEON</h1>
 
 <h3 align="center">Computer Engineering Student | Software Developer</h3>
 
 <p align="center">
-  Based in Madrid, Spain 🇪🇸
+  Madrid, Spain
   <br/>
-  Computer Engineering student at Universidad Camilo José Cela.
+  Computer Engineering at Universidad Camilo José Cela
   <br/>
-  Former Computer Science exchange student at Southern New Hampshire University, USA.
+  Computer Science Exchange Student at Southern New Hampshire University
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/marcosgale">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
-  </a>
+  <a href="https://github.com/marcosgale">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:marcosgl2705@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering student passionate about building software, solving problems and exploring new technologies.
+Computer Engineering student interested in software engineering, application development and emerging technologies.
 
-- 💻 Software Engineering Intern at **Siemens Mobility**, working on software development, process automation and digital transformation.
-- 🎓 Computer Engineering student at **Universidad Camilo José Cela**, expected graduation in June 2027.
-- 🇺🇸 Completed a Computer Science exchange year at **Southern New Hampshire University**, with a GPA of 3.75/4.00 and Dean's List recognition (Fall 2025).
-- ☁️ **AWS Certified Cloud Practitioner**.
-- 🤖 Interested in AI-assisted development, cloud computing, software architecture and scalable systems.
-- 🚀 Always learning, building projects and looking for opportunities to grow as a Software Engineer.
+- Software Engineering Intern at Siemens Mobility, working on software development and process automation.
+- Computer Engineering student at Universidad Camilo José Cela, expected graduation in June 2027.
+- Completed a Computer Science exchange year at Southern New Hampshire University, USA.
+- GPA: 3.75/4.00 | Dean's List, Fall 2025.
+- AWS Certified Cloud Practitioner.
+- Interested in software development, cloud computing, artificial intelligence and scalable systems.
 
 ---
 
-## Featured Projects
+## Projects
 
-### Numo — Personal Finance Mobile Application
+### Numo — Personal Finance Application
 **React Native · Expo · TypeScript · Supabase · PostgreSQL**
 
-- Designed and developed a personal finance application from scratch.
-- Built features for expense tracking, savings goals, spending limits, multi-currency support and shared expenses.
-- Implemented authentication, database integration and English/Spanish localization.
+Personal finance mobile application developed from scratch, featuring expense tracking, shared expenses, savings goals, spending limits and multi-currency support.
 
-### Machine Learning Pricing Prediction
-**Python · Machine Learning**
+### BigData Proyecto
+**Python · Data Engineering · ETL**
 
-- Developed a machine learning model to predict pricing based on real-world data patterns.
-- Applied data processing and predictive modeling techniques.
+University Big Data project focused on data engineering, ETL pipelines, data analysis, APIs and data storage.
+
+### Explorador de Películas
+**React**
+
+Movie exploration web application developed using React.
+
+### House Pricing Prediction
+**Python · Machine Learning · Scikit-learn · PyCaret**
+
+Machine learning project focused on house price prediction using Linear Regression, Gradient Boosting and AutoML across two real-world datasets.
 
 ### 2D Top-Down Shooter
 **Unity · C#**
 
-- Developed a playable 2D game from scratch.
-- Implemented game logic, physics and core gameplay mechanics.
+2D top-down shooter game developed in Unity, featuring shooting mechanics, melee combat, grenades, enemy AI and a stat system.
+
+### Software Test Automation & QA
+**Java · Software Testing · Unit Testing**
+
+Academic portfolio for CS 320, featuring Java projects, unit testing and software testing coursework.
 
 ---
 
@@ -62,19 +72,19 @@ I'm a Computer Engineering student passionate about building software, solving p
 
 **Programming Languages**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,sql" />
 </p>
 
 **Web & Mobile Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,expo" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express" />
 </p>
 
-**Databases, Cloud & Tools**
+**Databases, Cloud & Development Tools**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws,git,github,vscode,unity" />
 </p>
 
@@ -92,26 +102,20 @@ I'm a Computer Engineering student passionate about building software, solving p
 ## Education
 
 **Universidad Camilo José Cela (UCJC)**  
-B.Sc. in Computer Engineering | 2023 – Expected 2027
+B.Sc. in Computer Engineering  
+Madrid, Spain | 2023 – Expected June 2027
 
 **Southern New Hampshire University (SNHU)**  
-Computer Science Exchange Program | August 2025 – May 2026  
-GPA: 3.75/4.00 | Dean's List – Fall 2025
+Computer Science Exchange Program  
+Manchester, New Hampshire, USA | August 2025 – May 2026  
+GPA: 3.75/4.00 | Dean's List, Fall 2025
 
 ---
 
-## Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">
-    LinkedIn
-  </a>
-  &nbsp; · &nbsp;
-  <a href="mailto:marcosgl2705@gmail.com">
-    Email
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/marcosgale">
-    GitHub
-  </a>
+  <a href="https://github.com/marcosgale">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/marcos-garcia-leon-329369307/">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:marcosgl2705@gmail.com">Contact</a>
 </p>
